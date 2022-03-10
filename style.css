@@ -1,0 +1,25 @@
+body{
+    background-color: powderblue;
+}
+h3{
+    color: cornflowerblue;
+    
+}
+
+hr{
+    width: 10%;
+    border: none;
+    border-color: white;
+    border-top-style: dotted;
+    border-width: 5px;
+    
+    
+}
+a{
+    color: blanchedalmond;    
+}
+table{
+    background-color: #4682b4;
+}
+
+
