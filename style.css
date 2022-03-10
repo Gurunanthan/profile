@@ -1,8 +1,12 @@
 body{
-    background-color: powderblue;
+    
+    background-color: #B33030;
+    
 }
 h3{
-    color: cornflowerblue;
+    color: #FFC300;
+    text-decoration: dotted;
+    font-family: 'Franklin Gothic Medium';
     
 }
 
@@ -20,6 +24,31 @@ a{
 }
 table{
     background-color: #4682b4;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: solid;
+}
+.socialmedia{
+    padding-top: 50px;
+    width: 100%;
+    background-color: white;
+
+}
+.sociallink{
+    margin-left: 25%;
+}
+img{
+    width: 20px;   
+    margin-bottom: 0px;
+    margin-left: 25px;
+}
+#hello{
+    font-size: 20px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+}
+#g{
+    font-size: 20px;
 }
 
 
