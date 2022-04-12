@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding:0;
+}
+.topcontainer{    
+    padding-bottom: 40px;
+    background-color: bisque;
+    position: sticky;
+    
+}
+.topcontainer ul{
+    list-style: none;
+    display: flex;
+    float: right;
+}
+.topcontainer li{
+    margin-top: 3%;
+    padding: 10px 20px;
+    font-family: cursive;   
+}
+#name{
+    width: 170px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+/* here starts the hey everyone container*/
+.bottomtopcontainer{
+    height: 500px;
+    width: auto;
+    margin-bottom: 20%;
+    background-color: #ffff;
+    font-family: cursive;    
+}
+.bottomtopcontainer p{
+    margin-left: 40%;    
+}
+.bottomtopcontainer span{
+    font-size: 100px;
+    margin-left: 28%;
+}
+#gif{
+    height: 50%;
+    width: 20%;
+    margin-left: 2%;
+    position: relative;
+    margin-top: 2%;
+}
+/* here ends the hey everyone container*/
+/* here javascript container ends*/
+.middletopcontainer{
+    display: flex;
+    height: 500px;
+    width: auto;
+    background-color: aquamarine;
+    margin-bottom: 30%;
+    
+}
+.middletopcontainer p{
+    margin-left: 2%;
+    margin-right: 5%;
+    margin-top: 15%;
+    font-family: cursive;
+    font-size: 40px;
+   
+}
+#gif1{
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 10%;
+    height: 40%;
+    width: 20%;
+}
+/* here javascript container ends*/
+.lasttopcontainer {
+    display: flex;
+    background-color: #247881;
+    display: flex;
+    height: 500px;
+    width: auto;
+    margin-bottom: 30%;
+}
+.lasttopcontainer p{
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-size: 40px;
+    font-family: cursive;
+}
+#gif2{
+    margin-top: 0%;
+    margin-right: 5%;
+    padding-left: 200px;
+
+}
+.engineering{
+    display: flex;
+    background: linear-gradient(45deg, #F5B5FC,#fcb5f8,#fcb5fc);
+    display: flex;
+    height: 460px;
+    width: auto;
+    margin-bottom: 30%;
+}
+.engineering p{
+    margin-left: 1%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    font-size: 30px;
+    font-family: cursive;
+}
+#gif3{
+
+     
+}
+
+.bottom-container{
+    height: 40%;
+    width: 100;
+    background-color: #1B262C;
+}
+.bottom-container table{
+    margin-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;      
+    display: flex;
+    
+}
+.bottom-container table td a{
+    padding-top: 5%;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    font-family: cursive;
+    font-size: 30px;
+}
